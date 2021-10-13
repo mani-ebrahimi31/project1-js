@@ -62,6 +62,7 @@ function printArrays(box, array, arrayName) {
         }
     }
 }
+
 addTeacherBtn.addEventListener("click", addTeacher)
 addStudentBtn.addEventListener("click", addStudent)
 printBtn.addEventListener("click", print)
